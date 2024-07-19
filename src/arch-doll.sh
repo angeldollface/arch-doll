@@ -67,5 +67,4 @@ finish_setup(){
    # - Install my splashscreen.
    # - Install my wallpapers.
    # - Install my new rice.
-   # - Change init system to Open RC.
 }
